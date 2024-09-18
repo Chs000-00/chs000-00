@@ -4,4 +4,6 @@
 ## About Me:
 - High school student 🏫
 - WA State 🌎
-- I do random stuff I guess 🤷
+- Will install prettier onto your repo 🪛
+- "Something went really wrong and we can’t process that picture." ❓❓❓❓
+
