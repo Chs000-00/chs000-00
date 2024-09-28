@@ -10,4 +10,4 @@
 - Might fork your repo and add features 🍴
 - I do C++ I guess 🔲
 - Lot more python too 🐍
-- Oh and I will probably start learning kotlin soon 🟪
+- Oh and I will probably start learning kotlin soon ☕
