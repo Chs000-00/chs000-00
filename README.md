@@ -10,3 +10,4 @@
 - I do C++ I guess 🔲
 - Lot more python too 🐍
 - Oh and I will probably start learning kotlin soon ☕
+- Type of guy to play GT:NH
