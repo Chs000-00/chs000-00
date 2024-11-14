@@ -11,3 +11,5 @@
 - Lot more python too 🐍
 - Oh and I will probably start learning kotlin soon ☕
 - Type of guy to play GT:NH
+- Sort of cooking something right now 🔥
+- BSODs are funny, segfaults are not 🟦
